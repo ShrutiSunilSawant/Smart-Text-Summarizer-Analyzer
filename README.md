@@ -74,7 +74,7 @@ Or just paste raw text in the text area.
 
 ##  Project Structure
 
-```text
+
 SMART TEXT SUMMARIZER/
 │
 ├── venv/                 # Python virtual environment (ignored in Git)
