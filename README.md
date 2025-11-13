@@ -122,6 +122,8 @@ With the virtual environment activated:
 ```bash
 streamlit run app.py
 
+---
+
 ## How to Use
 
 1. Paste your text or upload a file (.txt, .pdf, .docx)
@@ -136,6 +138,8 @@ streamlit run app.py
    - Key phrases
    - Text statistics
 
+---
+
 ## Future Enhancements
 
 - Add extractive summarization mode
@@ -145,10 +149,14 @@ streamlit run app.py
 - Keyword scoring and topic modeling
 - Save history of analyses
 
+---
+
 ## Contributing
 
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you want to add.
+
+---
 
 ## Support
 
