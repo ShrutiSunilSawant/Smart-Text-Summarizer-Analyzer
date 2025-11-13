@@ -81,7 +81,6 @@ SMART TEXT SUMMARIZER/
 ├── app.py                # Main Streamlit application
 └── requirements.txt      # Python dependencies
 
-
 ---
 
 ## Installation & Setup
