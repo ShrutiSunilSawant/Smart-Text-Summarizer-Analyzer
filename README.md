@@ -74,13 +74,13 @@ Or just paste raw text in the text area.
 
 ##  Project Structure
 
-
+```text
 SMART TEXT SUMMARIZER/
 │
 ├── venv/                 # Python virtual environment (ignored in Git)
 ├── app.py                # Main Streamlit application
 └── requirements.txt      # Python dependencies
-
+```
 ---
 
 ## Installation & Setup
@@ -90,37 +90,37 @@ SMART TEXT SUMMARIZER/
 ```bash
 git clone https://github.com/your-username/smart-text-summarizer.git
 cd smart-text-summarizer
-
+```
 ### Create Virtual Environment
 
 ```bash
 python -m venv venv
-
+```
 Activate it:
 Windows (PowerShell / CMD)
 ```bash
 venv\Scripts\activate
-
+```
 Git Bash
 ```bash
 source venv/Scripts/activate
-
+```
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Download spaCy English Model
 
 ```bash
 python -m spacy download en_core_web_sm
-
+```
 ## Run the Application
 
 With the virtual environment activated:
 ```bash
 streamlit run app.py
-
+```
 ---
 
 ## How to Use
