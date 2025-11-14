@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+spacy
+nltk
+textblob
+plotly
+PyPDF2
+python-docx
+deep-translator
