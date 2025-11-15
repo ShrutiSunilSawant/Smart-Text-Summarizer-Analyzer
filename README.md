@@ -77,7 +77,7 @@ Or just paste raw text in the text area.
 ```text
 SMART TEXT SUMMARIZER/
 │
-├── venv/                 # Python virtual environment (ignored in Git)
+├── venv/                 # Python virtual environment 
 ├── app.py                # Main Streamlit application
 └── requirements.txt      # Python dependencies
 ```
